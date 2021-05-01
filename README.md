@@ -10,7 +10,7 @@ RU
   Папка "2021" : 
     смета - "2021 izpis.xlsx", 
     словарь аналогий - "name_list.txt"
-    фалы чеков "yearmonthday Nnme paid.###"
+    фалы чеков "yearmonthday name pay.###"
     
  Результирующий .xlsx в дирректории файла исходного кода ;
   
